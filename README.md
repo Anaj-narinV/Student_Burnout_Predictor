@@ -19,5 +19,20 @@ This is a machine learning-based web application that predicts student burnout l
 - Matplotlib / Seaborn  
 
 ---
+**#Project structure**
+student-burnout-predictor/
+│
+├── app.py Main Streamlit application
+├── model.pkl Trained machine learning model
+├── requirements.txt Required dependencies
+├── dataset.csv Dataset used for training (optional)
+│
+├── /assets Images, UI assets (if any)
+│
+├── /models Saved ML models (if multiple models used)
+│
+├── /notebooks Jupyter notebooks for training & analysis
+│
+└── README.md Project documentation
 
 ## Project Structure
