@@ -16,10 +16,9 @@ This is a machine learning-based web application that predicts student burnout l
 - Pandas  
 - NumPy  
 - Scikit-learn  
-- Matplotlib / Seaborn  
-
+- Matplotlib / Seaborn
 ---
-**#Project structure**
+## Project Structure
 student-burnout-predictor/
 │
 ├── app.py Main Streamlit application
@@ -35,4 +34,6 @@ student-burnout-predictor/
 │
 └── README.md Project documentation
 
-## Project Structure
+
+
+
