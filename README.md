@@ -40,8 +40,7 @@ student-burnout-predictor/
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/student-burnout-predictor.git
-
+gh repo clone Anaj-narinV/Student_Burnout_Predictor
 ### 2. Install dependencies
 
 pip install -r requirements.txt
